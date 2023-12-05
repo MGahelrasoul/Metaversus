@@ -1,6 +1,7 @@
 # Metaversus
 
 Comprehensive product site exploring the metaverse with a curated selection of products.
+
 See a live version [here](https://metaverse-madness.tech)
 
 ## Installation
